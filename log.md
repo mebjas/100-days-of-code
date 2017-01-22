@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 2: January 22 2017
+**Today's Progress**: I created a new repo to test a proof of concept: knockout-dynamic-form. I needed to construct a form based on data retrieved from some data access service. The form could have dependent fields such that selecting an option - requires re rendering some section with other elements. Also this had to be knockout based.
+
+**Thoughts**: To be frank, I created this POC to test something related to my day job. So this is kind of against the rules, but since I did this in out of office period with the curiousity to learn about the possiblity and open code, I believe this would come under my 100 days of code. Expecting to be able to log more in weekdays.
+
+**Link to work:** [knockout-dynamic-form](https://github.com/mebjas/knockout-dynamic-form)
+
 ### Day 1: January 21 2017 (Not exactly going as per plan)
 **Notes**: 100-days-of-code not going as planned. Issues included:
   1. Not able to work after day job.
